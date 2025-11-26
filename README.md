@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software Component Catalog - ReactJS & Firebase
 
 A web-based software component cataloging application built with ReactJS and Firebase. This application allows users to manage and search for reusable software components.
@@ -44,3 +45,7 @@ The project is organized as follows:
 
 ## Deployment
 This project has been deployed on Vercel.
+=======
+# Software-Component-Repository-System
+The Software Component Cataloging Software addresses the challenge of efficiently managing and retrieving reusable software components. 
+>>>>>>> 029704cbd9cfa3598ef152adcb7541dd4e3d4a90
